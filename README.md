@@ -1,3 +1,6 @@
+# Instruction
+
+
 1. Time is of the essence, you have 1 hour.
 2. You will have to deploy a Text Recognition service to AWS Lambda. To break down the task:
 	a. Proxy lambda service: gets triggered via HTTP Request from attached API Gateway with base64 encoded image.
