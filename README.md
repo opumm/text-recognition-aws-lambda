@@ -12,7 +12,13 @@
 5.  Any use of material is allowed (official documentations, medium articles, youtube videos etc)
 
 
+## Testing instruction
 
+Assuming you have `requests` installed in your env. 
+
+```sh
+ python3 test_endpoint.py
+```
 
 
 ## Checking the Platform Version and Python Version
